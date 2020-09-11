@@ -10,5 +10,6 @@ sudo ./scriptvm.sh
 -d setup docker permissions
 -m update minikube
 -s disable some services
+--apt disable apt auto-update
 --test1212 installer truc que j'aime bien
 ```
