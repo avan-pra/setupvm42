@@ -44,8 +44,6 @@ disable_services()
 	systemctl --quiet disable postgresql
 	printf "disabling redis-server\n"
 	systemctl --quiet disable redis-server
-	printf "disabling apt auto-update\n${Default}"
-	sed -i "s/1/0/g" /etc/apt/apt.conf.d/20auto-upgrades
 
 }
 
