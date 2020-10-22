@@ -13,3 +13,4 @@ sudo ./scriptvm.sh
 --apt disable apt auto-update
 --test1212 installer truc que j'aime bien
 ```
+Restart the VM afterwards
