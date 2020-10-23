@@ -8,7 +8,7 @@ sudo ./scriptvm.sh
 -a all
 -k change keyboard layout to US
 -d setup docker permissions
--m update minikube
+-m update minikube to 1.13
 -s disable some services
 --apt disable apt auto-update
 --test1212 install some useful program
