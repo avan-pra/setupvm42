@@ -71,6 +71,7 @@ helpp()
 	printf " -d setup docker permissions\n"
 	printf " -m update minikube to 1.13\n"
 	printf " -s disable some services\n"
+	printf " --apt disable apt auto-update\n"
 	printf " --test1212 install some useful program${Default}\n"
 }
 
