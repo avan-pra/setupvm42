@@ -69,7 +69,7 @@ helpp()
 	printf " -a all\n"
 	printf " -k change keyboard layout to US\n"
 	printf " -d setup docker permissions\n"
-	printf " -m update minikube\n"
+	printf " -m update minikube to 1.13\n"
 	printf " -s disable some services\n"
 	printf " --test1212 install some useful program${Default}\n"
 }
