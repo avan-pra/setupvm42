@@ -71,7 +71,7 @@ helpp()
 	printf " -d setup docker permissions\n"
 	printf " -m update minikube\n"
 	printf " -s disable some services\n"
-	printf " --test1212 installer truc que j'aime bien${Default}\n"
+	printf " --test1212 install some useful program${Default}\n"
 }
 
 if [ $(whoami) != "root" ];then
