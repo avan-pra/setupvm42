@@ -11,6 +11,6 @@ sudo ./scriptvm.sh
 -m update minikube
 -s disable some services
 --apt disable apt auto-update
---test1212 installer truc que j'aime bien
+--test1212 install some useful program
 ```
 Restart the VM afterwards
