@@ -21,6 +21,7 @@ change_docker()
 {
 	printf "${Blue}Allow Docker usage for user42${Default}\n"
 	usermod -aG docker user42
+	newgrp docker
 }
 
 update_minikube()
